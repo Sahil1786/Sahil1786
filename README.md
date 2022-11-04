@@ -41,8 +41,9 @@
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=sahil1786&theme=vision-friendly-dark" />
 </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahil1786" alt="sahil1786" /></a> </p>
 
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=sahil1786&theme=monokai" />
 </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ohid2000" alt="ohid2000" /></a> </p>
+
