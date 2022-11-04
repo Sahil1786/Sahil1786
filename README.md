@@ -2,6 +2,7 @@
 <h3 align="center">An aspiring Full Stack Developer from India</h3>
 
 <p align="center"> <img src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif" width="300" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil1786&label=Profile%20views&color=0e75b6&style=flat" alt="sahil1786" /> </p>
 
 - 👨🏻‍🎓 I’m currently pursuing B.Tech in Information Technology
 
