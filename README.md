@@ -14,8 +14,14 @@
 
 - ⚡ Fun fact: i love to watch web series & Movies
 
+
+
 <h3 align="left">Connect with me:</h3>
  <a href="https://twitter.com/@sahilho07860949" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sahilho07860949" height="30" width="40" /></a> <a href="https://linkedin.com/in/sahil-hossain-b14164188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil-hossain-b14164188" height="30" width="40" /></a> <a href="https://www.facebook.com/captain123sahil/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m.me/captain123sahil" height="30" width="40" /></a> <a href="https://instagram.com/x_captain_sahil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="x_captain_sahil" height="30" width="40" /></a> 
+
+
+
+ [![An image of @sahil7786's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sahil7786)](https://holopin.io/@sahil7786)
 
 <h3 align="left">Languages and Tools:</h3>
 
