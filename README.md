@@ -7,6 +7,7 @@
 
 
 
+
 # 💫 About Me:
 👨🏻‍🎓 I’m currently pursuing B.Tech in Information Technology in Final year<br><br>🌱 I’m currently learning React<br><br>🤝🏽 I’m looking to collaborate on real-world projects<br><br>📫 How to reach me sahilkaitha@gmai.com<br><br>⚡ Fun fact: i love to watch web series & Movies
 
@@ -30,10 +31,10 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sahil1786&limit=5&theme=oldie&combine_all_yearly_contributions=true)
 
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=sahil1786&icon=2&color=6)](https://visitcount.itsvg.in)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
